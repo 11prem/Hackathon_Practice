@@ -1,0 +1,502 @@
+product_id,product_name,category,price,cost,launch_date,discontinued
+1,Product_srxLU,Home & Kitchen,free,1755,24/04/2021,FALSE
+2,Product_TVjGZ,Electronics,"₹2,878",1745,01/03/2018,no
+3,Product_gyAGP,Footwear,"₹2,757",3460,2021-03-24,
+4,Product_aRAQX,Home & Kitchen,-339,3002,May 26 2017,no
+5,Product_qgBOf,Toys,0,3703,Aug 28 2021,Yes
+6,Product_bJPEj,Electronics,0,3288,Sep 28 2015,no
+7,Product_daVzM,Electronics,free,1284,2023.10.18,
+8,Product_abwtg,Toys,-422,2193,2022-07-23,no
+9,Product_tyEAp,Apparel,-551,1712,Jul 07 2023,FALSE
+10,Product_tjOjb,Apparel,free,3294,22/08/2017,no
+11,Product_WQfyq,Footwear,-702,1594,2015.05.29,Yes
+12,Product_fPuVT,Toys,-297,3890,2020-01-18,No
+13,Product_diPoS,Home & Kitchen,1395,2698,Sep 15 2018,FALSE
+14,Product_NzWcH,home &Kitchen,-141,1453,Nov 28 2018,FALSE
+15,Product_omzzt,home &Kitchen,1722,2839,2021.10.19,FALSE
+16,Product_EyrxZ,Toys,"₹1,153",3614,2016-06-25,FALSE
+17,Product_WBtEu,Home & Kitchen,2604,718,2025-09-20,No
+18,Product_EFaNA,Apparel,free,2286,2021-05-02,no
+19,Product_ocopy,Apparel,"₹4,517",1375,2020-02-20,
+20,Product_drxHC,Home & Kitchen,free,1457,2025-02-23,
+21,Product_axiDT,Apparel,0,1056,Jul 10 2018,FALSE
+22,Product_ybjIG,Toys,free,2076,01/01/2024,no
+23,Product_QeZOd,home &Kitchen,0,2008,Jan 12 2017,
+24,Product_uPgak,Stationery,3701,1703,Dec 19 2023,No
+25,Product_QDxOl,Home & Kitchen,free,2548,06/01/2018,no
+26,,Footwear,4713,496,2022-04-25,Yes
+27,Product_PEQsS,Home & Kitchen,"₹4,450",3723,2015.04.17,no
+28,Product_ileVg,Home & Kitchen,0,1765,2015.03.01,Yes
+29,Product_YeQyQ,Stationery,0,2874,16/09/2025,No
+30,,Footwear,free,3894,2018.01.01,no
+31,Product_VOcvd,Apparel,3767,1746,2015.11.15,Yes
+32,Product_GwKUo,Stationery,"₹2,112",1720,18/09/2015,Yes
+33,Product_cTXNG,Stationery,-387,1913,2020-09-20,no
+34,Product_LQgZI,home &Kitchen,free,3389,2024-01-15,
+35,Product_rdMnc,Stationery,₹793,3971,2018-01-24,FALSE
+36,Product_WNvsg,home &Kitchen,0,617,2021-12-01,
+37,Product_rPmqo,Home & Kitchen,free,2474,2017.07.22,no
+38,Product_OMkDW,Electronics,free,1091,Sep 20 2025,FALSE
+39,Product_oMGXM,Apparel,free,2853,Nov 13 2024,No
+40,Product_LthAF,Home & Kitchen,free,2954,2019.04.25,
+41,,Stationery,"₹1,899",1045,2018-12-09,FALSE
+42,Product_SJDzL,Toys,-461,2290,18/09/2020,FALSE
+43,Product_QGENB,home &Kitchen,3751,2843,2023-06-24,
+44,Product_yUVxW,Toys,-989,2791,Mar 01 2022,no
+45,,Home & Kitchen,free,268,08/12/2024,Yes
+46,Product_bunBy,home &Kitchen,0,242,17/02/2017,Yes
+,Product_HDeCG,Stationery,free,3720,2015-01-02,Yes
+48,Product_YduPn,Apparel,₹574,1678,Jan 06 2025,Yes
+49,Product_Dsxvh,Stationery,-778,1174,2022-12-06,FALSE
+50,Product_HBjrZ,Electronics,₹971,96,Sep 01 2015,no
+51,,home &Kitchen,-997,2899,2015.04.10,No
+52,Product_tMZyb,Electronics,-198,2060,Nov 13 2023,Yes
+53,Product_inCcx,Toys,"₹3,820",3768,2021-10-26,FALSE
+54,Product_MNoHJ,Stationery,0,2999,2018.09.17,
+55,Product_LGNVN,Footwear,3087,3680,2015-12-07,FALSE
+56,Product_caqln,Apparel,-860,1206,2015.04.12,FALSE
+57,Product_OsnsQ,Toys,-126,3526,Nov 28 2021,no
+58,Product_hZkkQ,Footwear,0,621,2016-11-02,
+59,Product_nWRHH,Footwear,"₹3,280",3595,Dec 20 2024,Yes
+60,Product_dZJOV,Apparel,free,134,2016-01-15,No
+61,Product_YSTZU,Apparel,-819,2165,2025.03.28,No
+62,,Toys,-255,877,Jan 27 2015,FALSE
+63,Product_mTRwD,Apparel,-760,1766,Feb 17 2022,no
+64,Product_HzzNJ,Footwear,free,1869,2019-03-12,
+65,Product_bnLTs,Stationery,₹378,2786,2025-11-01,
+66,Product_llHzz,Home & Kitchen,728,2548,Jan 18 2023,Yes
+67,Product_OegNJ,Footwear,0,2938,2022-08-31,
+68,Product_PkYDd,Electronics,0,1364,01/03/2022,no
+69,Product_KWzGV,Apparel,0,888,Mar 10 2018,No
+70,Product_MmGop,Footwear,-196,1949,07/03/2022,No
+71,Product_iSfID,Footwear,free,2190,2015.06.15,no
+72,Product_fWrfI,Toys,"₹4,410",622,Apr 14 2021,
+73,Product_MnZwL,Toys,3396,1099,17/08/2023,no
+74,Product_ydftI,Stationery,free,3900,2021.03.16,no
+75,Product_nrBcv,Home & Kitchen,free,79,Dec 30 2020,FALSE
+76,Product_zOkFC,Stationery,0,2779,15/04/2025,no
+77,Product_TPqzK,Home & Kitchen,0,536,Jun 29 2018,Yes
+78,Product_OSDIU,Stationery,0,2736,24/11/2016,no
+79,Product_yhxzf,Home & Kitchen,0,3716,2019.04.27,No
+80,Product_aBIbP,Toys,-198,1161,12/01/2021,No
+81,Product_qMbKm,home &Kitchen,-982,1120,2017.10.28,No
+82,Product_TqjvZ,Footwear,-668,580,2015.02.03,FALSE
+,Product_aWxhY,Toys,4554,3584,Nov 15 2020,No
+84,Product_dNDii,Toys,₹518,91,Dec 08 2022,
+85,Product_YZdaO,Apparel,free,333,04/02/2020,FALSE
+86,Product_SpiTk,Footwear,"₹4,968",2338,Aug 26 2023,no
+87,Product_WsSAx,Apparel,2752,267,02/01/2025,no
+88,Product_FsXCt,Electronics,0,3392,30/10/2022,FALSE
+89,Product_SWpwD,Stationery,0,2513,21/05/2022,Yes
+90,Product_VedXX,home &Kitchen,0,2569,09/01/2022,FALSE
+91,Product_RDjjV,Footwear,0,2245,Nov 17 2025,no
+92,Product_sPeUo,Apparel,₹281,137,2025.10.25,
+93,Product_NTvbJ,Home & Kitchen,0,1402,2019-10-05,Yes
+94,Product_KpHJO,Stationery,0,505,2015-06-02,No
+95,Product_owGsY,Stationery,2925,3721,07/06/2020,no
+96,Product_XBrgB,Electronics,free,1926,2025-08-05,Yes
+97,Product_AQUgJ,Apparel,free,1934,2017-03-08,no
+98,Product_ZONWS,home &Kitchen,free,1920,Nov 10 2018,no
+99,Product_sLwtZ,Footwear,free,1744,07/05/2020,
+100,Product_nHrmo,Footwear,2638,968,2020.09.18,No
+,Product_JqbIu,Toys,0,1228,Mar 13 2017,Yes
+102,Product_kHSsG,Home & Kitchen,3601,3542,2021.04.28,No
+103,Product_pGFSU,Stationery,1559,2774,2015-12-23,FALSE
+104,Product_tRCYT,Footwear,-830,2905,21/09/2018,
+105,Product_kHOuX,Footwear,-328,3202,13/07/2021,FALSE
+106,Product_YqJCj,Toys,3523,3828,Dec 07 2021,no
+107,,Home & Kitchen,-810,3479,2017-03-04,No
+108,Product_GPNpr,Home & Kitchen,free,3514,Jan 11 2021,
+109,Product_ebAxk,Toys,0,3617,31/10/2020,no
+110,Product_kQKcM,Home & Kitchen,"₹2,615",1016,2018.11.24,
+111,Product_fOFAv,Apparel,-884,3371,2020-07-23,No
+112,Product_ctOSu,Toys,free,2646,2018.04.30,No
+113,Product_Luduj,Toys,-796,793,Feb 19 2021,Yes
+114,Product_LXSeg,Apparel,1501,1524,Jul 01 2022,FALSE
+115,Product_NQZrI,Apparel,free,2245,02/11/2024,no
+116,Product_dglan,Stationery,free,3338,14/12/2020,
+117,Product_DUZlr,Home & Kitchen,free,2124,04/07/2019,FALSE
+118,Product_FOpPE,Electronics,3136,2203,2015.06.29,no
+119,Product_YvuEp,Home & Kitchen,"₹1,808",3766,Oct 28 2017,no
+120,Product_OANGM,Stationery,free,1414,2019.06.18,FALSE
+121,,Apparel,"₹4,939",720,2015-03-16,
+122,Product_RMmNr,Electronics,2058,202,2023-07-18,no
+123,Product_ivSYg,Electronics,₹504,2292,10/01/2023,no
+124,Product_hJOcb,Apparel,"₹2,540",1120,Jun 14 2016,FALSE
+125,Product_RDLml,Apparel,"₹4,561",1134,2021.10.10,
+126,Product_tcNNU,Footwear,"₹4,070",1199,Sep 26 2024,
+,Product_HccmW,home &Kitchen,-320,3757,13/08/2015,
+128,Product_WOwEp,Toys,free,1782,Sep 16 2021,
+129,Product_oiiji,Footwear,"₹1,701",2881,30/07/2024,No
+130,Product_rZuzb,Footwear,0,3850,2024.08.30,Yes
+131,Product_Zntxb,Stationery,885,1325,29/03/2024,FALSE
+132,Product_jHxfW,Toys,free,1749,01/11/2018,No
+133,Product_FrNEM,Home & Kitchen,0,1545,Apr 18 2021,no
+134,Product_lMJaz,Footwear,0,808,2019-09-22,FALSE
+135,Product_NiGnm,Home & Kitchen,free,2840,Sep 13 2025,no
+136,Product_WaiQJ,Home & Kitchen,-753,2390,2024.01.02,Yes
+137,Product_dvvvH,Electronics,free,3076,2023.10.25,Yes
+138,Product_ipNNY,Apparel,free,2031,Apr 07 2015,no
+139,Product_dIUNR,home &Kitchen,-243,325,2015.10.19,No
+140,Product_vmVGU,Home & Kitchen,2283,226,2017-09-13,No
+141,Product_dwGto,Footwear,-267,2452,22/08/2019,Yes
+142,Product_fpRpO,Home & Kitchen,0,374,2019.05.24,No
+143,Product_dcYLw,Stationery,0,2025,2017-02-26,no
+,Product_pUedx,Stationery,free,2378,2024.07.02,No
+145,Product_Bxqua,home &Kitchen,free,1567,2019.12.28,Yes
+146,,Home & Kitchen,0,983,2016.05.08,No
+147,Product_YgeKj,Stationery,"₹3,984",316,2020-04-12,no
+148,Product_vqGXT,Apparel,"₹3,129",1128,2025.08.15,no
+149,Product_ahMCZ,Home & Kitchen,1864,869,15/02/2024,no
+150,Product_EqXQv,Electronics,-629,2995,2022-07-16,FALSE
+151,Product_ndQFA,Apparel,4811,3462,May 11 2024,Yes
+152,Product_dKSnh,Home & Kitchen,"₹1,211",2183,20/12/2017,no
+153,Product_KGSRU,Footwear,-252,1796,2015-09-14,Yes
+154,Product_QjMzz,Footwear,₹674,2366,Aug 14 2017,
+155,Product_FlsLS,Apparel,3858,2070,2017-02-21,no
+156,Product_RuieQ,Apparel,3822,2351,2021.08.12,Yes
+157,Product_feYCa,Apparel,-759,3661,2022-01-03,FALSE
+158,Product_lPlEH,Home & Kitchen,-500,3152,Jun 30 2015,
+159,Product_bbRcF,Footwear,3412,2982,2017-06-12,
+160,Product_twpPE,Stationery,0,3169,2018-03-25,No
+,Product_HXFcu,Footwear,2240,247,2016-04-26,no
+162,Product_exDXe,Electronics,-522,2187,Aug 07 2023,
+163,Product_rTMfQ,Home & Kitchen,3695,2888,25/03/2022,No
+164,Product_ElzCw,Home & Kitchen,0,3422,Nov 23 2024,
+165,Product_ZzkWz,Footwear,free,357,04/03/2016,Yes
+166,Product_mhTAS,Home & Kitchen,3853,899,2025-03-02,
+167,Product_BPfue,Electronics,0,2412,Aug 04 2020,no
+168,Product_ULwHg,Apparel,2659,964,Mar 24 2020,No
+169,Product_MjHSv,Stationery,free,1150,18/09/2018,Yes
+170,Product_GUSIx,Home & Kitchen,-424,2127,13/12/2018,FALSE
+171,Product_OpnMS,Stationery,"₹4,460",2266,Jul 31 2022,No
+172,Product_ypulB,Apparel,3194,1398,2022.05.02,No
+173,Product_PikuX,Electronics,₹231,1219,2018-07-23,No
+174,,home &Kitchen,-603,68,2024.10.18,FALSE
+175,Product_sgDCr,Stationery,"₹4,212",2940,2022-02-28,no
+176,Product_knYZF,Electronics,"₹2,858",2402,2020-11-12,no
+177,Product_jCUTr,Apparel,2510,2528,Apr 01 2015,Yes
+178,Product_ddKHl,Apparel,3919,1243,2025.06.05,no
+179,Product_AkzBp,home &Kitchen,0,2519,2023.06.11,No
+180,Product_sJHPx,home &Kitchen,free,960,Jan 06 2020,no
+181,Product_HUtdl,Toys,free,3121,27/01/2020,No
+182,Product_RRMhq,home &Kitchen,₹656,1982,2022-12-13,no
+183,Product_xixsz,Apparel,free,1041,Sep 04 2015,Yes
+184,Product_pUdQE,Home & Kitchen,2233,2793,16/08/2019,no
+185,Product_ngpZN,Home & Kitchen,0,2613,2018-11-12,No
+186,Product_QOYjl,Stationery,3800,3243,Mar 22 2019,no
+187,Product_mpGAZ,Footwear,free,1081,Oct 07 2017,no
+188,,Footwear,-342,2739,Dec 09 2017,Yes
+189,Product_kINSa,Footwear,-366,1679,Mar 04 2023,
+190,Product_TxSsJ,Apparel,free,1033,2018.01.16,No
+191,Product_qoSPd,Footwear,0,2872,2025.01.22,FALSE
+192,Product_GXHcL,home &Kitchen,-815,2201,2017.03.27,No
+193,Product_xyXeU,Electronics,-414,3348,May 29 2024,No
+194,Product_zdbHl,Electronics,-316,3869,2021-05-20,
+195,Product_GCLHw,home &Kitchen,3582,744,2016-12-06,FALSE
+196,Product_HUCwZ,home &Kitchen,-419,2382,Feb 24 2016,
+197,Product_JjqhA,Electronics,0,1521,21/10/2023,no
+198,Product_yTNYr,Home & Kitchen,-895,1078,22/10/2020,No
+199,Product_aQwyw,Stationery,0,395,17/10/2021,Yes
+200,Product_kUiqa,Apparel,-912,3587,2025.10.11,No
+201,Product_urSdE,Stationery,2091,185,2021.10.15,FALSE
+,Product_IgCjd,Home & Kitchen,"₹3,960",2929,28/12/2023,no
+203,Product_PYwwv,Toys,"₹3,138",1672,2024.05.02,no
+204,Product_gvxkh,Electronics,2634,2760,2019-03-25,no
+205,Product_RnnlN,Stationery,"₹4,855",2573,2018-10-29,
+206,Product_ghaAL,Footwear,4059,2408,31/08/2020,FALSE
+207,Product_zwwZd,Stationery,free,60,2019-05-10,No
+208,Product_TBeKk,Toys,412,3590,2024.09.30,No
+209,Product_fVrDG,Stationery,free,2071,09/05/2022,FALSE
+210,Product_tdHqK,Apparel,771,2492,2015.03.16,FALSE
+211,Product_UZvBf,Electronics,"₹4,540",3270,25/10/2018,
+212,Product_IUzga,Footwear,"₹3,253",1276,2019-08-23,Yes
+213,Product_OYMWJ,Footwear,"₹1,709",3343,2021-02-17,no
+214,Product_fvMio,Toys,free,1181,Sep 25 2018,no
+215,Product_mHEKQ,home &Kitchen,0,889,Jul 31 2020,Yes
+216,Product_tTcKj,Home & Kitchen,0,3459,2016-08-14,Yes
+217,Product_FQCjb,home &Kitchen,"₹4,450",3218,15/04/2020,Yes
+218,Product_Bkdnx,Footwear,0,2323,15/11/2015,no
+219,Product_CmRuz,Electronics,283,3835,2015-01-10,no
+220,Product_AfTEJ,Apparel,4316,3014,2018.07.27,No
+221,Product_WILKM,Footwear,free,1529,Jan 29 2021,Yes
+222,Product_fPffS,Footwear,₹579,2758,15/11/2025,No
+223,Product_dgQvL,Home & Kitchen,-713,3119,2020-10-15,Yes
+224,,home &Kitchen,₹730,2956,Feb 06 2020,no
+225,Product_PZupp,Home & Kitchen,-766,3759,Feb 27 2018,No
+226,Product_JSDHr,Footwear,-123,1130,2019-02-13,FALSE
+227,Product_xjbAj,Home & Kitchen,2314,1835,2025-09-10,Yes
+228,Product_CELPi,home &Kitchen,free,3085,14/11/2017,no
+229,Product_yHiBI,Electronics,-198,575,29/12/2024,FALSE
+230,Product_nbGRA,Electronics,-276,1337,2017-09-27,no
+231,Product_Slafd,home &Kitchen,free,980,2018.05.23,No
+232,Product_IGMUY,Electronics,-354,2680,27/07/2025,
+233,Product_AxjuE,Stationery,-676,2601,2023.09.29,Yes
+234,Product_tixul,home &Kitchen,621,1884,2020-09-03,Yes
+235,Product_OHgeh,Toys,0,1207,Nov 03 2023,Yes
+236,Product_hNepl,home &Kitchen,free,3867,2025-01-13,
+237,,Electronics,free,3644,2016.04.03,Yes
+238,Product_VzqtV,home &Kitchen,-478,3747,12/02/2015,
+239,Product_LotEk,Electronics,-315,778,2024.02.10,
+240,Product_GdYRB,Stationery,4617,2176,2018.06.10,Yes
+241,Product_mFkuX,Home & Kitchen,-850,1116,Jun 21 2018,
+242,Product_LHpxo,home &Kitchen,0,361,2019.11.30,no
+243,Product_Ufvro,Toys,"₹3,891",2680,2017.05.24,no
+244,Product_Lywcq,Stationery,-777,2496,2019.03.09,No
+245,Product_YEfjG,Home & Kitchen,-172,475,Apr 14 2019,No
+246,Product_zpBwi,Stationery,free,1450,2019.07.11,No
+247,,Apparel,free,682,2015.07.30,Yes
+248,Product_LXTfo,home &Kitchen,0,221,2019-09-14,FALSE
+249,Product_igDuR,Footwear,-337,747,10/03/2017,Yes
+250,Product_LZVBo,Home & Kitchen,free,1675,02/06/2016,
+251,Product_JbDzM,Home & Kitchen,2148,473,Aug 28 2015,No
+252,Product_yPUvr,home &Kitchen,free,2902,19/12/2018,Yes
+253,Product_lPcxi,Apparel,"₹1,835",184,Apr 18 2021,no
+254,Product_CueOZ,Stationery,0,3055,Mar 11 2022,FALSE
+255,Product_HiWhk,Apparel,0,284,31/01/2019,No
+256,Product_umjoJ,home &Kitchen,free,1154,2021.02.26,
+257,Product_Mqqym,Stationery,383,3843,Aug 05 2021,Yes
+258,Product_bytcY,Toys,-404,3086,2019.10.17,no
+259,Product_bGvWb,Electronics,2506,3311,2017.04.22,
+260,Product_ZQaBU,Home & Kitchen,"₹2,046",1173,2024-10-13,Yes
+261,Product_jvFNe,home &Kitchen,-132,3133,2020.09.14,Yes
+262,Product_vphhT,Footwear,"₹2,947",2841,2016.08.04,No
+263,Product_ztzin,Home & Kitchen,0,1403,05/06/2024,
+264,Product_AMPyl,Toys,0,2342,2022-02-16,no
+265,Product_CbEvm,Electronics,-972,2189,22/07/2015,No
+266,,home &Kitchen,0,2884,2024-10-18,FALSE
+267,Product_Jlyxj,Toys,"₹4,690",959,18/05/2021,FALSE
+268,Product_iQMgm,Stationery,-801,2931,14/07/2023,
+269,Product_VeZRF,Electronics,"₹4,284",3130,Jan 27 2022,Yes
+270,Product_dbkuj,Apparel,0,3404,2018.01.05,no
+271,Product_gKKjU,Electronics,free,2516,2023.12.23,no
+272,Product_OjWxs,Electronics,2050,444,Nov 26 2022,no
+273,Product_TlEwL,Stationery,0,760,2025.08.28,
+274,Product_YeeVg,Electronics,0,1668,01/02/2020,No
+275,Product_cvlEI,Footwear,4796,1127,2018-10-25,
+276,Product_Zvxdj,Apparel,free,1504,2019.03.30,no
+277,Product_MkJYp,Electronics,free,476,Jul 20 2024,No
+278,Product_jfjpY,Electronics,-222,1972,Feb 01 2024,No
+279,Product_xfIEs,Apparel,0,165,2023.03.04,Yes
+280,Product_XelHM,Stationery,"₹1,785",1991,2022.12.13,No
+281,Product_Wksxe,Home & Kitchen,0,2809,2024.10.10,No
+282,Product_YJhuC,Footwear,free,491,2025.08.13,no
+283,Product_vXYNI,Footwear,0,1293,2025-11-24,
+284,Product_LrkVY,Electronics,0,2528,28/10/2023,
+285,,Home & Kitchen,-969,384,14/09/2017,
+286,Product_zvNSY,Toys,"₹4,065",1616,16/11/2015,Yes
+287,Product_OhExh,Electronics,0,1289,2018-01-22,FALSE
+288,Product_CUxMW,home &Kitchen,"₹1,490",316,2022.09.28,
+289,Product_TxrPn,Toys,2217,2538,Feb 26 2016,Yes
+290,Product_rrvEc,Home & Kitchen,free,978,2015.12.31,No
+291,Product_AHiNj,Electronics,free,855,19/07/2025,No
+292,Product_KIGfF,Toys,"₹4,082",3420,Mar 24 2020,No
+293,Product_Kozvv,Apparel,-624,2931,Aug 20 2020,Yes
+294,Product_rNsko,Home & Kitchen,729,1840,2024-01-18,
+295,Product_mPFMK,Footwear,free,2108,2018.09.28,no
+296,Product_UKnVs,Home & Kitchen,"₹3,759",3461,2023-02-06,FALSE
+297,Product_zbbOi,Stationery,-962,652,Oct 04 2022,
+298,Product_QcxYT,Footwear,free,1941,Feb 08 2024,no
+299,Product_fSbiP,Apparel,730,2933,Feb 22 2018,Yes
+300,Product_DhEQe,Stationery,3070,2966,2017-05-12,Yes
+301,Product_JRjDK,Home & Kitchen,free,233,11/08/2018,No
+302,Product_ptCoQ,Apparel,0,1084,12/03/2017,No
+303,Product_kchec,home &Kitchen,-414,1453,2023-11-29,
+304,Product_TpWYJ,Stationery,0,874,30/11/2024,No
+305,Product_hYGBe,home &Kitchen,2432,3155,2022-07-09,
+306,Product_BJIQC,Electronics,"₹4,761",2213,23/09/2016,FALSE
+307,Product_RPxTm,Home & Kitchen,0,2834,2019.09.29,no
+308,Product_mYKiP,Stationery,₹669,1245,04/10/2016,FALSE
+309,Product_acHIG,Home & Kitchen,"₹1,278",1995,Aug 09 2023,No
+310,Product_WRbSz,Apparel,"₹3,182",2568,22/05/2017,
+311,Product_jpuBD,Apparel,"₹2,721",3167,2017.08.22,FALSE
+312,Product_GXKQs,Home & Kitchen,"₹2,813",161,2018.05.25,FALSE
+313,Product_LJSyY,Stationery,"₹4,124",1879,05/07/2016,Yes
+314,Product_UFZmd,Apparel,0,2557,2016-12-21,no
+315,Product_NFirR,Home & Kitchen,-335,587,2019-01-03,No
+316,Product_WIlKP,Apparel,3633,278,2018-11-30,
+317,Product_oiSls,Stationery,0,2601,24/11/2018,FALSE
+318,Product_RbUDT,Electronics,-458,703,2023.06.02,
+319,Product_VYjXW,Toys,-879,1801,2020.09.11,FALSE
+320,Product_zLqDS,Toys,-609,2440,Aug 03 2015,
+321,,Footwear,free,457,2016.07.16,
+322,Product_zsSCO,Home & Kitchen,free,728,Sep 21 2022,
+323,,Home & Kitchen,0,2934,Feb 23 2016,No
+324,Product_jOlaE,Stationery,"₹2,805",163,2023.02.02,no
+325,Product_yEyeI,Apparel,-604,1047,2022.07.19,no
+326,Product_TrSpF,Toys,"₹4,690",2287,2021-10-05,
+327,Product_yJeZD,Electronics,free,3170,2015-09-27,
+328,Product_wkSDF,Electronics,"₹4,811",3188,2025-06-03,no
+329,Product_IUYdS,Home & Kitchen,free,3129,Dec 02 2021,no
+330,,Home & Kitchen,free,2509,2016-10-29,FALSE
+331,Product_RCjrK,Home & Kitchen,0,2283,2016.05.04,Yes
+332,Product_ZSREt,Electronics,-309,3469,Aug 13 2024,Yes
+333,Product_COCtF,Toys,3571,3164,2023.10.20,FALSE
+334,Product_SUvRf,Home & Kitchen,-263,1946,2019.05.11,FALSE
+335,,Apparel,0,779,24/12/2022,no
+336,Product_OErOk,Home & Kitchen,0,3605,2021.09.27,No
+337,Product_KnKmC,home &Kitchen,-750,887,Dec 26 2024,Yes
+338,Product_PFTWk,Electronics,1025,2629,25/12/2017,No
+339,Product_hAOvm,Footwear,-744,2790,2020-06-10,FALSE
+340,Product_jcopQ,Apparel,"₹1,672",757,2024.08.29,Yes
+341,Product_PbphT,Footwear,0,1751,2021-08-18,Yes
+342,Product_CORZS,Toys,"₹4,287",595,27/01/2016,
+343,Product_yiKHz,Apparel,free,193,2017.10.04,FALSE
+344,Product_riXJG,Footwear,0,718,2019.02.16,
+345,Product_chfga,Toys,-194,3953,Sep 10 2023,
+346,Product_UrGfm,Home & Kitchen,"₹2,867",1642,May 12 2025,FALSE
+347,Product_AEEsI,Stationery,0,593,2021.07.19,FALSE
+348,Product_pnRZJ,home &Kitchen,free,1959,2024.05.19,
+349,Product_TppKs,Home & Kitchen,0,3905,2020-10-17,no
+350,Product_aDlbm,Electronics,"₹1,411",3684,2020.05.02,No
+351,Product_znllz,Apparel,726,3232,May 24 2023,Yes
+352,Product_NPLSJ,Home & Kitchen,"₹2,159",718,2023-06-29,No
+353,,Home & Kitchen,"₹3,989",3592,2025-04-01,FALSE
+354,Product_mVFIC,home &Kitchen,-321,251,Jul 09 2025,No
+355,Product_HtJCO,Apparel,1952,2224,Nov 14 2025,No
+356,Product_CsAKE,Stationery,0,3327,2022-06-29,FALSE
+357,Product_UDoOa,Home & Kitchen,0,2590,16/02/2017,FALSE
+358,Product_fEgac,Toys,free,818,03/05/2021,No
+359,Product_eMNlt,Apparel,"₹1,315",3441,2016.07.01,No
+360,Product_mDbzU,Electronics,-771,3183,19/03/2025,no
+361,Product_fZRIy,Apparel,-702,3877,2018.02.24,FALSE
+362,Product_CeWDz,Footwear,-138,1622,2019-01-01,
+363,Product_YNyug,Toys,3423,3864,01/06/2016,Yes
+364,,home &Kitchen,-447,1556,Aug 24 2024,FALSE
+365,Product_oPYQe,Stationery,free,2448,2021.02.17,no
+366,Product_EeivZ,home &Kitchen,-986,979,25/11/2025,no
+367,Product_Neihw,Home & Kitchen,0,2768,Jun 01 2015,
+368,Product_ioUuX,Toys,"₹4,662",2820,2022.11.23,
+369,Product_ERkrs,Stationery,3180,1821,2025.05.18,No
+370,Product_gvKuz,Stationery,free,1787,2019-12-09,no
+371,Product_OnZtF,Footwear,"₹2,847",1255,Aug 04 2015,no
+372,Product_pNAzX,Electronics,0,3911,Mar 20 2016,Yes
+373,Product_OHXqQ,Home & Kitchen,free,3687,2015-01-20,no
+374,Product_CBArL,Home & Kitchen,-318,2552,2025.01.03,FALSE
+375,Product_DOKns,Home & Kitchen,free,2645,04/05/2025,FALSE
+376,Product_EzIrP,home &Kitchen,-318,736,Nov 10 2020,
+377,,Toys,1585,3160,Jul 14 2019,FALSE
+378,Product_PvdLD,Footwear,4977,490,Sep 24 2016,no
+379,Product_GPTHj,Electronics,1501,133,Dec 28 2023,no
+380,Product_dJbpP,Home & Kitchen,₹555,3386,2023-11-12,FALSE
+381,Product_wrXuO,Apparel,0,2739,2016.09.21,Yes
+382,Product_zGfnR,Footwear,680,3459,Aug 22 2015,
+383,Product_zvccY,Stationery,2017,1754,Oct 31 2021,
+384,Product_tJOtT,Footwear,0,2872,Feb 05 2015,Yes
+,Product_bahhL,Apparel,"₹4,414",3370,Nov 16 2022,FALSE
+386,Product_dVCdt,Apparel,1887,3510,2023.11.09,FALSE
+387,Product_RcYop,Electronics,-901,1947,Nov 16 2023,No
+388,Product_YErGg,home &Kitchen,"₹4,676",509,2016-08-20,Yes
+389,Product_Eqbio,Stationery,₹261,1388,2016-10-03,FALSE
+390,Product_rRrZi,Apparel,free,2657,2025.11.10,No
+391,Product_oxXRY,Apparel,free,784,10/01/2015,Yes
+,Product_BxROy,Home & Kitchen,₹838,2571,22/10/2020,No
+393,,Toys,4280,2093,2025.01.28,FALSE
+394,Product_RjtGX,Stationery,0,1633,Oct 29 2021,no
+395,Product_QESZY,Stationery,5000,3294,2020.08.18,no
+396,Product_GfkiA,Footwear,-579,2986,17/05/2017,FALSE
+397,Product_NBpzp,Footwear,"₹1,861",1968,2023.08.22,
+398,,Electronics,free,2702,2016-09-28,no
+399,Product_CCZlY,Home & Kitchen,free,3536,2023.11.08,No
+400,Product_BYNQO,Stationery,-496,2158,2019.02.18,FALSE
+401,Product_HHdFU,Stationery,₹143,3495,Feb 15 2020,Yes
+402,Product_fthdm,Home & Kitchen,913,521,2016-10-19,Yes
+403,Product_xHbUQ,Footwear,-573,1433,13/06/2023,Yes
+404,Product_Spahz,Apparel,0,2330,2023-05-31,
+405,Product_RBtki,home &Kitchen,free,1878,Jan 31 2024,
+406,Product_FSTye,Electronics,free,1059,26/12/2017,
+407,Product_LUokM,Toys,"₹1,197",3302,2025-02-24,
+408,Product_soymP,Home & Kitchen,"₹2,561",2262,2020.06.24,No
+409,Product_DXCjP,Home & Kitchen,"₹4,928",1300,2018.11.13,Yes
+410,Product_gNRxq,Home & Kitchen,2390,511,03/03/2019,FALSE
+411,Product_wjOmr,Apparel,0,1607,2025-05-22,Yes
+412,Product_HukRz,Stationery,free,850,2017-06-12,No
+413,Product_ZMgxg,Apparel,free,2996,25/06/2022,no
+414,Product_wqlzC,Electronics,"₹1,706",3702,2020-02-18,No
+415,Product_OoUOj,home &Kitchen,0,2838,Oct 13 2016,No
+416,Product_HGWvB,Stationery,"₹2,398",560,Nov 22 2022,FALSE
+417,Product_whKwX,Home & Kitchen,-782,2021,May 28 2015,
+418,Product_ADoeo,Footwear,₹950,2288,27/08/2017,Yes
+419,,home &Kitchen,-427,2660,24/05/2023,Yes
+420,Product_tgqiE,Electronics,4342,1055,2019.10.18,
+421,Product_wHppq,Home & Kitchen,864,3476,15/06/2018,Yes
+422,Product_pHpvR,Toys,free,1430,2023.11.16,Yes
+423,Product_OUKkr,Stationery,-199,1051,Dec 17 2018,FALSE
+424,Product_bLtwW,Footwear,3210,1906,2022.03.09,Yes
+425,Product_tSMhN,Home & Kitchen,"₹3,057",1797,2020.07.26,Yes
+426,Product_oRqOu,Electronics,free,2812,2015-01-22,FALSE
+427,Product_EKEHy,Footwear,-625,482,25/01/2016,FALSE
+428,Product_BdMxM,Electronics,0,444,2020-09-25,FALSE
+429,Product_OrJFi,Electronics,free,3119,Mar 03 2025,
+430,Product_PUDgq,Stationery,-599,872,Nov 22 2025,
+431,Product_eAgwT,Stationery,0,3951,2023.09.06,Yes
+432,Product_BkieM,Apparel,3240,744,2018-03-22,No
+433,Product_ERXwx,Stationery,₹292,1210,2023.05.10,
+434,Product_ZlYIf,Apparel,free,2257,2025.01.11,no
+435,Product_lddqI,Home & Kitchen,-601,1194,Aug 09 2015,no
+436,Product_eqiMH,Footwear,"₹4,709",2058,16/05/2024,no
+437,Product_YXvtv,Apparel,free,3230,2025-08-24,
+438,Product_SznSb,Stationery,₹503,3703,2025.01.17,No
+439,Product_VoGmM,Footwear,4895,2178,Jan 20 2017,Yes
+440,Product_wuUKf,Footwear,"₹1,722",3390,2025.06.14,
+441,Product_KzMsK,home &Kitchen,0,2204,2015-12-16,no
+442,Product_VjlLP,Electronics,free,1756,26/03/2015,No
+443,Product_FBhbj,home &Kitchen,-507,3558,2025.07.14,Yes
+444,Product_iMZte,Toys,free,622,02/07/2017,no
+445,Product_GDSdb,Home & Kitchen,0,2001,27/10/2023,FALSE
+446,Product_hNxzh,Stationery,free,2186,17/07/2025,no
+447,Product_MWVGJ,Home & Kitchen,2557,1199,2021.04.06,No
+448,,Electronics,643,2179,2025-11-26,No
+449,Product_mzmep,Stationery,-793,930,2016.09.02,Yes
+450,Product_RNOyS,Stationery,0,3730,2024.02.19,No
+451,Product_gKUUN,Electronics,1555,606,Mar 18 2023,FALSE
+452,Product_oueUK,Stationery,"₹2,032",638,2018-07-30,FALSE
+453,Product_qJUwA,Apparel,-275,1181,16/05/2024,
+454,Product_EYSIF,Electronics,-813,445,Jul 10 2020,
+455,Product_wiorx,Toys,108,55,03/04/2018,Yes
+456,Product_oUrDM,Electronics,0,2085,May 21 2022,FALSE
+457,,Stationery,free,2516,09/07/2021,No
+458,Product_tYMzt,Toys,-979,2102,2018.03.21,
+459,Product_kVfgj,home &Kitchen,3266,637,2019-02-27,no
+460,Product_NDRqY,Stationery,-267,1660,Mar 24 2022,No
+461,Product_IzwkC,Toys,0,2751,2022-08-18,
+462,Product_ImFuy,Apparel,₹598,1344,19/05/2022,FALSE
+463,Product_kLuEB,Home & Kitchen,"₹2,113",852,2020-10-01,
+464,Product_mbQHR,Stationery,-991,469,26/11/2021,
+465,Product_WFbkk,Home & Kitchen,free,595,2016.12.23,Yes
+466,Product_BUxwM,home &Kitchen,"₹3,332",681,Jan 17 2024,
+467,Product_nwXDD,Apparel,0,326,2015.05.16,No
+468,Product_mhZKz,home &Kitchen,-143,696,2018-12-05,FALSE
+469,Product_hpuXY,Apparel,0,2565,Dec 19 2017,
+470,Product_byCJp,Apparel,-456,653,2020.09.12,FALSE
+471,Product_KiKnP,Home & Kitchen,0,2461,2022-09-27,no
+472,Product_FtloP,Apparel,630,2111,2019.04.13,FALSE
+473,Product_hwTtJ,Toys,4731,2095,19/08/2018,No
+474,Product_SyvTZ,home &Kitchen,-251,606,Jul 27 2023,FALSE
+475,Product_CHJgw,Toys,2092,3724,16/10/2015,Yes
+476,Product_GesBW,Footwear,4179,153,16/06/2017,No
+477,Product_eMBFo,Electronics,free,1836,2017.02.15,Yes
+478,Product_wrVzs,Stationery,0,865,Jul 22 2022,FALSE
+479,Product_OQAzc,Toys,-113,3417,2020-08-20,Yes
+480,Product_ogwZB,Footwear,-125,2417,Jul 01 2023,No
+481,Product_hActc,Apparel,4239,3248,2023-05-06,FALSE
+482,Product_vnWdY,Home & Kitchen,-768,1125,2025-10-12,FALSE
+483,Product_VHWJt,Footwear,-949,1310,2020.02.17,FALSE
+484,Product_LRuaH,Home & Kitchen,-444,1608,Jan 19 2018,Yes
+485,Product_uttRS,Toys,3054,617,2019-01-14,no
+486,Product_UlPDY,Footwear,free,1576,2016.01.30,
+487,Product_hKNDW,home &Kitchen,"₹1,949",3639,2024-01-23,FALSE
+488,Product_OqnHi,Electronics,-241,3763,2015-11-01,No
+489,Product_COXPa,Footwear,"₹3,512",2036,2017-09-23,no
+490,Product_PMjxG,Toys,-355,2237,Feb 01 2019,no
+491,Product_VccsC,Stationery,-502,3164,03/12/2018,FALSE
+492,Product_oJZMY,home &Kitchen,free,3593,2021-01-22,FALSE
+493,Product_foBBP,Home & Kitchen,0,2968,2022-07-06,no
+494,Product_bTvsR,home &Kitchen,2320,2493,May 21 2019,FALSE
+495,Product_uzPws,Footwear,free,2782,2024.12.22,FALSE
+496,Product_fwjwo,Toys,"₹1,481",1178,2018-06-22,FALSE
+497,Product_Bdtke,Home & Kitchen,-419,3681,03/12/2015,Yes
+498,Product_AypxR,Toys,1713,497,Feb 23 2017,No
+499,Product_FYvii,Footwear,0,3690,2021.02.15,FALSE
+500,Product_pBpoS,Apparel,"₹1,714",2938,Nov 03 2021,No
+BADROW WITHOUT PROPER COLUMNS,,,,,,
