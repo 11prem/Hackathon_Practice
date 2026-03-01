@@ -6,12 +6,12 @@ import logging
 # 🔹 Logging Configuration
 # ---------------------------------------------------
 logging.basicConfig(
-    filename="customer_cleaning.log",
+    filename="customers_cleaning.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-logging.info("Customer Cleaning Process Started")
+logging.info("Customers Cleaning Process Started")
 
 # ---------------------------------------------------
 # 🔹 Load Data
@@ -150,4 +150,4 @@ print("Rows Removed (Critical Only):", rows_removed)
 # Save cleaned file
 df.to_csv("customers_cleaned.csv", index=False)
 
-logging.info("Customer Cleaning Process Completed Successfully")
+logging.info("Customers Cleaning Process Completed Successfully")

@@ -6,12 +6,12 @@ import logging
 # 🔹 Logging Configuration
 # ---------------------------------------------------
 logging.basicConfig(
-    filename="product_cleaning.log",
+    filename="products_cleaning.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-logging.info("Product Cleaning Process Started")
+logging.info("Products Cleaning Process Started")
 
 # ---------------------------------------------------
 # 🔹 Load Data
@@ -168,7 +168,7 @@ rows_removed = rows_before - rows_after
 logging.info(f"Final Rows: {rows_after}")
 logging.info(f"Total Rows Removed: {rows_removed}")
 
-print("🔹 Product Cleaning Completed")
+print("🔹 Products Cleaning Completed")
 print("Rows Before:", rows_before)
 print("Rows After:", rows_after)
 print("Rows Removed:", rows_removed)
@@ -176,4 +176,4 @@ print("Rows Removed:", rows_removed)
 # Save cleaned dataset
 df.to_csv("products_cleaned.csv", index=False)
 
-logging.info("Product Cleaning Process Completed Successfully")
+logging.info("Products Cleaning Process Completed Successfully")
