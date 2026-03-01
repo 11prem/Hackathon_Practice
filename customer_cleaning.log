@@ -1,0 +1,47 @@
+2026-03-01 14:30:45,684 - INFO - Customer Cleaning Process Started
+2026-03-01 14:30:45,692 - INFO - Initial Rows: 1520
+2026-03-01 14:30:45,692 - INFO - Duplicate customer_id removed: 31
+2026-03-01 14:30:45,692 - INFO - Rows removed due to missing customer_id: 1
+2026-03-01 14:30:45,692 - INFO - Final Rows: 1488
+2026-03-01 14:30:45,692 - INFO - Total Rows Removed: 32
+2026-03-01 14:30:45,700 - INFO - Customer Cleaning Process Completed Successfully
+2026-03-01 14:33:05,528 - INFO - Customer Cleaning Process Started
+2026-03-01 14:33:05,533 - INFO - Initial Rows: 1520
+2026-03-01 14:33:05,533 - INFO - Duplicate customer_id removed: 31
+2026-03-01 14:33:05,533 - INFO - Rows removed due to missing customer_id: 1
+2026-03-01 14:33:05,533 - INFO - Invalid email count: 938
+2026-03-01 14:33:05,533 - INFO - Final Rows: 1488
+2026-03-01 14:33:05,533 - INFO - Total Rows Removed: 32
+2026-03-01 14:33:05,550 - INFO - Customer Cleaning Process Completed Successfully
+2026-03-01 14:38:27,694 - INFO - Customer Cleaning Process Started
+2026-03-01 14:38:27,717 - INFO - Initial Rows: 15
+2026-03-01 14:39:09,184 - INFO - Customer Cleaning Process Started
+2026-03-01 14:39:09,218 - INFO - Initial Rows: 17
+2026-03-01 14:40:07,167 - INFO - Customer Cleaning Process Started
+2026-03-01 14:40:07,167 - INFO - Initial Rows: 1520
+2026-03-01 14:40:07,177 - INFO - Duplicate customer_id removed: 31
+2026-03-01 14:40:07,177 - INFO - Rows removed due to missing customer_id: 1
+2026-03-01 14:40:07,177 - INFO - Invalid email count: 938
+2026-03-01 14:40:07,177 - INFO - Invalid phone count: 585
+2026-03-01 14:40:07,194 - INFO - Invalid join_date count: 1102
+2026-03-01 14:40:07,194 - INFO - Invalid birthdate count: 1353
+2026-03-01 14:40:07,194 - INFO - City names trimmed
+2026-03-01 14:40:07,194 - INFO - Invalid postal codes: 347
+2026-03-01 14:40:07,194 - INFO - Invalid gender entries: 487
+2026-03-01 14:40:07,194 - INFO - Final Rows: 1488
+2026-03-01 14:40:07,194 - INFO - Total Rows Removed: 32
+2026-03-01 14:40:07,202 - INFO - Customer Cleaning Process Completed Successfully
+2026-03-01 15:00:38,587 - INFO - Customer Cleaning Process Started
+2026-03-01 15:00:38,597 - INFO - Initial Rows: 1520
+2026-03-01 15:00:38,597 - INFO - Duplicate customer_id removed: 31
+2026-03-01 15:00:38,597 - INFO - Rows removed due to missing customer_id: 1
+2026-03-01 15:00:38,602 - INFO - Invalid email count: 938
+2026-03-01 15:00:38,609 - INFO - Invalid phone count: 585
+2026-03-01 15:00:38,615 - INFO - Invalid join_date count: 1102
+2026-03-01 15:00:38,615 - INFO - Invalid birthdate count: 1353
+2026-03-01 15:00:38,615 - INFO - City names trimmed
+2026-03-01 15:00:38,617 - INFO - Invalid postal codes: 347
+2026-03-01 15:00:38,619 - INFO - Invalid gender entries: 487
+2026-03-01 15:00:38,619 - INFO - Final Rows: 1488
+2026-03-01 15:00:38,619 - INFO - Total Rows Removed: 32
+2026-03-01 15:00:38,626 - INFO - Customer Cleaning Process Completed Successfully

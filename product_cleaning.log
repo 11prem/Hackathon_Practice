@@ -1,0 +1,37 @@
+2026-03-01 14:47:16,305 - INFO - Product Cleaning Process Started
+2026-03-01 14:47:16,319 - INFO - Initial Rows: 501
+2026-03-01 14:47:16,319 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 14:47:16,319 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 14:47:16,327 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 14:47:16,327 - INFO - Negative prices removed: 0
+2026-03-01 14:47:16,327 - INFO - Zero prices removed: 180
+2026-03-01 14:47:16,334 - INFO - Invalid cost entries: 0
+2026-03-01 14:47:16,334 - INFO - Rows removed where cost > price: 163
+2026-03-01 14:47:16,338 - INFO - Category names standardized
+2026-03-01 14:47:46,560 - INFO - Product Cleaning Process Started
+2026-03-01 14:47:46,567 - INFO - Initial Rows: 501
+2026-03-01 14:47:46,567 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 14:47:46,567 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 14:47:46,567 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 14:47:46,567 - INFO - Negative prices removed: 0
+2026-03-01 14:47:46,567 - INFO - Zero prices removed: 180
+2026-03-01 14:47:46,567 - INFO - Invalid cost entries: 0
+2026-03-01 14:47:46,567 - INFO - Rows removed where cost > price: 163
+2026-03-01 14:47:46,567 - INFO - Category names standardized
+2026-03-01 14:49:42,168 - INFO - Product Cleaning Process Started
+2026-03-01 14:49:42,168 - INFO - Initial Rows: 501
+2026-03-01 14:49:42,168 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 14:49:42,168 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 14:49:42,168 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 14:49:42,168 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 14:49:42,168 - INFO - Negative prices removed: 0
+2026-03-01 14:49:42,183 - INFO - Zero prices removed: 180
+2026-03-01 14:49:42,184 - INFO - Invalid cost entries: 0
+2026-03-01 14:49:42,184 - INFO - Rows removed where cost > price: 163
+2026-03-01 14:49:42,184 - INFO - Category names standardized
+2026-03-01 14:49:42,184 - INFO - Invalid launch_date entries: 97
+2026-03-01 14:49:42,184 - INFO - Invalid discontinued flags: 26
+2026-03-01 14:49:42,184 - INFO - Completely malformed rows removed: 0
+2026-03-01 14:49:42,184 - INFO - Final Rows: 120
+2026-03-01 14:49:42,184 - INFO - Total Rows Removed: 381
+2026-03-01 14:49:42,184 - INFO - Product Cleaning Process Completed Successfully

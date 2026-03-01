@@ -1,0 +1,121 @@
+product_id,product_name,category,price,cost,launch_date,discontinued
+2,Product_TVjGZ,electronics,2878,1745.0,2018-03-01,False
+17,Product_WBtEu,home & kitchen,2604,718.0,,False
+19,Product_ocopy,apparel,4517,1375.0,,
+24,Product_uPgak,stationery,3701,1703.0,,False
+27,Product_PEQsS,home & kitchen,4450,3723.0,,False
+31,Product_VOcvd,apparel,3767,1746.0,,True
+32,Product_GwKUo,stationery,2112,1720.0,2015-09-18,True
+43,Product_QGENB,home &kitchen,3751,2843.0,,
+50,Product_HBjrZ,electronics,971,96.0,,False
+53,Product_inCcx,toys,3820,3768.0,,False
+72,Product_fWrfI,toys,4410,622.0,,
+73,Product_MnZwL,toys,3396,1099.0,2023-08-17,False
+82,Product_TqjvZ,footwear,668,580.0,,False
+84,Product_dNDii,toys,518,91.0,,
+86,Product_SpiTk,footwear,4968,2338.0,,False
+87,Product_WsSAx,apparel,2752,267.0,2025-01-02,False
+92,Product_sPeUo,apparel,281,137.0,,
+100,Product_nHrmo,footwear,2638,968.0,,False
+102,Product_kHSsG,home & kitchen,3601,3542.0,,False
+110,Product_kQKcM,home & kitchen,2615,1016.0,,
+113,Product_Luduj,toys,796,793.0,,True
+118,Product_FOpPE,electronics,3136,2203.0,,False
+122,Product_RMmNr,electronics,2058,202.0,,False
+124,Product_hJOcb,apparel,2540,1120.0,,False
+125,Product_RDLml,apparel,4561,1134.0,,
+126,Product_tcNNU,footwear,4070,1199.0,,
+140,Product_vmVGU,home & kitchen,2283,226.0,,False
+147,Product_YgeKj,stationery,3984,316.0,,False
+148,Product_vqGXT,apparel,3129,1128.0,,False
+149,Product_ahMCZ,home & kitchen,1864,869.0,2024-02-15,False
+151,Product_ndQFA,apparel,4811,3462.0,,True
+155,Product_FlsLS,apparel,3858,2070.0,,False
+156,Product_RuieQ,apparel,3822,2351.0,,True
+159,Product_bbRcF,footwear,3412,2982.0,,
+163,Product_rTMfQ,home & kitchen,3695,2888.0,2022-03-25,False
+166,Product_mhTAS,home & kitchen,3853,899.0,,
+168,Product_ULwHg,apparel,2659,964.0,,False
+171,Product_OpnMS,stationery,4460,2266.0,,False
+172,Product_ypulB,apparel,3194,1398.0,,False
+175,Product_sgDCr,stationery,4212,2940.0,,False
+176,Product_knYZF,electronics,2858,2402.0,,False
+178,Product_ddKHl,apparel,3919,1243.0,,False
+186,Product_QOYjl,stationery,3800,3243.0,,False
+195,Product_GCLHw,home &kitchen,3582,744.0,,False
+201,Product_urSdE,stationery,2091,185.0,,False
+203,Product_PYwwv,toys,3138,1672.0,,False
+205,Product_RnnlN,stationery,4855,2573.0,,
+206,Product_ghaAL,footwear,4059,2408.0,2020-08-31,False
+211,Product_UZvBf,electronics,4540,3270.0,2018-10-25,
+212,Product_IUzga,footwear,3253,1276.0,,True
+217,Product_FQCjb,home &kitchen,4450,3218.0,2020-04-15,True
+220,Product_AfTEJ,apparel,4316,3014.0,,False
+227,Product_xjbAj,home & kitchen,2314,1835.0,,True
+240,Product_GdYRB,stationery,4617,2176.0,,True
+243,Product_Ufvro,toys,3891,2680.0,,False
+251,Product_JbDzM,home & kitchen,2148,473.0,,False
+253,Product_lPcxi,apparel,1835,184.0,,False
+260,Product_ZQaBU,home & kitchen,2046,1173.0,,True
+262,Product_vphhT,footwear,2947,2841.0,,False
+267,Product_Jlyxj,toys,4690,959.0,2021-05-18,False
+269,Product_VeZRF,electronics,4284,3130.0,,True
+272,Product_OjWxs,electronics,2050,444.0,,False
+275,Product_cvlEI,footwear,4796,1127.0,,
+286,Product_zvNSY,toys,4065,1616.0,2015-11-16,True
+288,Product_CUxMW,home &kitchen,1490,316.0,,
+292,Product_KIGfF,toys,4082,3420.0,,False
+296,Product_UKnVs,home & kitchen,3759,3461.0,,False
+297,Product_zbbOi,stationery,962,652.0,,
+300,Product_DhEQe,stationery,3070,2966.0,,True
+306,Product_BJIQC,electronics,4761,2213.0,2016-09-23,False
+310,Product_WRbSz,apparel,3182,2568.0,2017-05-22,
+312,Product_GXKQs,home & kitchen,2813,161.0,,False
+313,Product_LJSyY,stationery,4124,1879.0,2016-07-05,True
+316,Product_WIlKP,apparel,3633,278.0,,
+324,Product_jOlaE,stationery,2805,163.0,,False
+326,Product_TrSpF,toys,4690,2287.0,,
+328,Product_wkSDF,electronics,4811,3188.0,,False
+333,Product_COCtF,toys,3571,3164.0,,False
+340,Product_jcopQ,apparel,1672,757.0,,True
+342,Product_CORZS,toys,4287,595.0,2016-01-27,
+346,Product_UrGfm,home & kitchen,2867,1642.0,,False
+352,Product_NPLSJ,home & kitchen,2159,718.0,,False
+354,Product_mVFIC,home &kitchen,321,251.0,,False
+366,Product_EeivZ,home &kitchen,986,979.0,2025-11-25,False
+368,Product_ioUuX,toys,4662,2820.0,,
+369,Product_ERkrs,stationery,3180,1821.0,,False
+371,Product_OnZtF,footwear,2847,1255.0,,False
+378,Product_PvdLD,footwear,4977,490.0,,False
+379,Product_GPTHj,electronics,1501,133.0,,False
+383,Product_zvccY,stationery,2017,1754.0,,
+388,Product_YErGg,home &kitchen,4676,509.0,,True
+395,Product_QESZY,stationery,5000,3294.0,,False
+402,Product_fthdm,home & kitchen,913,521.0,,True
+408,Product_soymP,home & kitchen,2561,2262.0,,False
+409,Product_DXCjP,home & kitchen,4928,1300.0,,True
+410,Product_gNRxq,home & kitchen,2390,511.0,2019-03-03,False
+416,Product_HGWvB,stationery,2398,560.0,,False
+420,Product_tgqiE,electronics,4342,1055.0,,
+424,Product_bLtwW,footwear,3210,1906.0,,True
+425,Product_tSMhN,home & kitchen,3057,1797.0,,True
+427,Product_EKEHy,footwear,625,482.0,2016-01-25,False
+432,Product_BkieM,apparel,3240,744.0,,False
+436,Product_eqiMH,footwear,4709,2058.0,2024-05-16,False
+439,Product_VoGmM,footwear,4895,2178.0,,True
+447,Product_MWVGJ,home & kitchen,2557,1199.0,,False
+451,Product_gKUUN,electronics,1555,606.0,,False
+452,Product_oueUK,stationery,2032,638.0,,False
+454,Product_EYSIF,electronics,813,445.0,,
+455,Product_wiorx,toys,108,55.0,2018-04-03,True
+459,Product_kVfgj,home &kitchen,3266,637.0,,False
+463,Product_kLuEB,home & kitchen,2113,852.0,,
+464,Product_mbQHR,stationery,991,469.0,2021-11-26,
+466,Product_BUxwM,home &kitchen,3332,681.0,,
+473,Product_hwTtJ,toys,4731,2095.0,2018-08-19,False
+476,Product_GesBW,footwear,4179,153.0,2017-06-16,False
+481,Product_hActc,apparel,4239,3248.0,,False
+485,Product_uttRS,toys,3054,617.0,,False
+489,Product_COXPa,footwear,3512,2036.0,,False
+496,Product_fwjwo,toys,1481,1178.0,,False
+498,Product_AypxR,toys,1713,497.0,,False
