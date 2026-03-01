@@ -1,0 +1,10 @@
+2026-03-01 16:01:55,841 - INFO - Data Cleaning Started
+2026-03-01 16:01:55,861 - INFO - Initial rows: 5001
+2026-03-01 16:01:55,864 - INFO - After duplicate removal: 4949
+2026-03-01 16:01:55,872 - INFO - After quantity fixing: 4949
+2026-03-01 16:01:55,887 - INFO - After price fixing: 4949
+2026-03-01 16:01:55,919 - INFO - After date fixing: 4949
+2026-03-01 16:01:55,967 - INFO - After foreign key handling: 4949
+2026-03-01 16:01:56,027 - INFO - sales_cleaned.csv generated successfully
+2026-03-01 16:01:56,028 - INFO - Final row count: 4949
+2026-03-01 16:01:56,028 - INFO - Data Cleaning Completed
