@@ -35,3 +35,174 @@
 2026-03-01 14:49:42,184 - INFO - Final Rows: 120
 2026-03-01 14:49:42,184 - INFO - Total Rows Removed: 381
 2026-03-01 14:49:42,184 - INFO - Product Cleaning Process Completed Successfully
+2026-03-01 15:55:18,445 - INFO - Products Cleaning Process Started
+2026-03-01 15:56:33,639 - INFO - Products Cleaning Process Started
+2026-03-01 15:56:33,659 - INFO - Initial Rows: 501
+2026-03-01 15:56:33,659 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 15:56:33,659 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 15:56:33,673 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 15:56:33,673 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 15:56:33,673 - INFO - Negative prices removed: 0
+2026-03-01 15:56:33,673 - INFO - Zero prices removed: 180
+2026-03-01 15:56:33,673 - INFO - Invalid cost entries: 0
+2026-03-01 15:56:33,673 - INFO - Rows removed where cost > price: 163
+2026-03-01 15:56:33,673 - INFO - Category names standardized
+2026-03-01 15:56:33,688 - INFO - Invalid launch_date entries: 97
+2026-03-01 15:56:33,709 - INFO - Invalid discontinued flags: 26
+2026-03-01 15:56:33,709 - INFO - Completely malformed rows removed: 0
+2026-03-01 15:56:33,709 - INFO - Final Rows: 120
+2026-03-01 15:56:33,709 - INFO - Total Rows Removed: 381
+2026-03-01 15:56:42,180 - INFO - Products Cleaning Process Started
+2026-03-01 15:56:42,200 - INFO - Initial Rows: 501
+2026-03-01 15:56:42,200 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 15:56:42,200 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 15:56:42,200 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 15:56:42,210 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 15:56:42,213 - INFO - Negative prices removed: 0
+2026-03-01 15:56:42,213 - INFO - Zero prices removed: 180
+2026-03-01 15:56:42,213 - INFO - Invalid cost entries: 0
+2026-03-01 15:56:42,213 - INFO - Rows removed where cost > price: 163
+2026-03-01 15:56:42,217 - INFO - Category names standardized
+2026-03-01 15:56:42,217 - INFO - Invalid launch_date entries: 97
+2026-03-01 15:56:42,217 - INFO - Invalid discontinued flags: 26
+2026-03-01 15:56:42,217 - INFO - Completely malformed rows removed: 0
+2026-03-01 15:56:42,217 - INFO - Final Rows: 120
+2026-03-01 15:56:42,217 - INFO - Total Rows Removed: 381
+2026-03-01 15:57:39,304 - INFO - Products Cleaning Process Started
+2026-03-01 15:57:39,315 - INFO - Initial Rows: 501
+2026-03-01 15:57:39,319 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 15:57:39,323 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 15:57:39,326 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 15:57:39,329 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 15:57:39,333 - INFO - Negative prices removed: 0
+2026-03-01 15:57:39,333 - INFO - Zero prices removed: 180
+2026-03-01 15:57:39,335 - INFO - Invalid cost entries: 0
+2026-03-01 15:57:39,337 - INFO - Rows removed where cost > price: 163
+2026-03-01 15:57:39,339 - INFO - Category names standardized
+2026-03-01 15:57:39,343 - INFO - Invalid launch_date entries: 97
+2026-03-01 15:57:39,343 - INFO - Invalid discontinued flags: 26
+2026-03-01 15:57:39,343 - INFO - Completely malformed rows removed: 0
+2026-03-01 15:57:39,343 - INFO - Final Rows: 120
+2026-03-01 15:57:39,343 - INFO - Total Rows Removed: 381
+2026-03-01 15:57:40,240 - INFO - Products Cleaning Process Completed Successfully
+2026-03-01 15:58:58,523 - INFO - Products Cleaning Process Started
+2026-03-01 15:58:58,535 - INFO - Initial Rows: 501
+2026-03-01 15:58:58,535 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 15:58:58,535 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 15:58:58,535 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 15:58:58,544 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 15:58:58,544 - INFO - Negative prices removed: 0
+2026-03-01 15:58:58,544 - INFO - Zero prices removed: 180
+2026-03-01 15:58:58,544 - INFO - Invalid cost entries: 0
+2026-03-01 15:58:58,549 - INFO - Rows removed where cost > price: 163
+2026-03-01 15:58:58,551 - INFO - Category names standardized
+2026-03-01 15:58:58,553 - INFO - Invalid launch_date entries: 97
+2026-03-01 15:58:58,553 - INFO - Invalid discontinued flags: 26
+2026-03-01 15:58:58,553 - INFO - Completely malformed rows removed: 0
+2026-03-01 15:58:58,561 - INFO - Final Rows: 120
+2026-03-01 15:58:58,561 - INFO - Total Rows Removed: 381
+2026-03-01 15:58:58,607 - INFO - Products Cleaning Process Completed Successfully
+2026-03-01 16:03:07,069 - INFO - Products Cleaning Process Started
+2026-03-01 16:03:07,078 - INFO - Initial Rows: 501
+2026-03-01 16:03:07,083 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 16:03:07,084 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 16:03:07,084 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 16:03:07,086 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 16:03:07,086 - INFO - Negative prices removed: 0
+2026-03-01 16:03:07,086 - INFO - Zero prices removed: 180
+2026-03-01 16:03:07,086 - INFO - Invalid cost entries: 0
+2026-03-01 16:03:07,086 - INFO - Rows removed where cost > price: 163
+2026-03-01 16:03:07,086 - INFO - Category names standardized
+2026-03-01 16:03:07,094 - INFO - Invalid launch_date entries: 97
+2026-03-01 16:03:07,094 - INFO - Invalid discontinued flags: 26
+2026-03-01 16:03:07,094 - INFO - Completely malformed rows removed: 0
+2026-03-01 16:03:07,094 - INFO - Final Rows: 120
+2026-03-01 16:03:07,094 - INFO - Total Rows Removed: 381
+2026-03-01 16:03:07,128 - INFO - Products Cleaning Process Completed Successfully
+2026-03-01 16:05:20,376 - INFO - Products Cleaning Process Started
+2026-03-01 16:05:20,386 - INFO - Initial Rows: 501
+2026-03-01 16:05:20,386 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 16:05:20,390 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 16:05:20,390 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 16:05:20,393 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 16:05:20,393 - INFO - Negative prices removed: 0
+2026-03-01 16:05:20,393 - INFO - Zero prices removed: 180
+2026-03-01 16:05:20,393 - INFO - Invalid cost entries: 0
+2026-03-01 16:05:20,393 - INFO - Rows removed where cost > price: 163
+2026-03-01 16:05:20,399 - INFO - Category names standardized
+2026-03-01 16:05:20,402 - INFO - Invalid launch_date entries: 97
+2026-03-01 16:05:20,404 - INFO - Invalid discontinued flags: 26
+2026-03-01 16:05:20,408 - INFO - Completely malformed rows removed: 0
+2026-03-01 16:05:20,408 - INFO - Final Rows: 120
+2026-03-01 16:05:20,408 - INFO - Total Rows Removed: 381
+2026-03-01 16:05:20,456 - INFO - Products Cleaning Process Completed Successfully
+2026-03-01 16:09:04,336 - INFO - Products Cleaning Process Started
+2026-03-01 16:09:04,354 - INFO - Initial Rows: 501
+2026-03-01 16:09:04,360 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 16:09:04,360 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 16:09:04,360 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 16:09:04,372 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 16:09:04,374 - INFO - Negative prices removed: 0
+2026-03-01 16:09:04,374 - INFO - Zero prices removed: 180
+2026-03-01 16:09:04,377 - INFO - Invalid cost entries: 0
+2026-03-01 16:09:04,378 - INFO - Rows removed where cost > price: 163
+2026-03-01 16:09:04,380 - INFO - Category names standardized
+2026-03-01 16:09:04,390 - INFO - Invalid launch_date entries: 97
+2026-03-01 16:09:04,390 - INFO - Invalid discontinued flags: 26
+2026-03-01 16:09:04,398 - INFO - Completely malformed rows removed: 0
+2026-03-01 16:09:04,398 - INFO - Final Rows: 120
+2026-03-01 16:09:04,398 - INFO - Total Rows Removed: 381
+2026-03-01 16:09:04,438 - INFO - Products Cleaning Process Completed Successfully
+2026-03-01 16:11:05,328 - INFO - Products Cleaning Process Started
+2026-03-01 16:11:05,347 - INFO - Initial Rows: 501
+2026-03-01 16:11:05,347 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 16:11:05,348 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 16:11:05,348 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 16:11:05,348 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 16:11:05,348 - INFO - Negative prices removed: 0
+2026-03-01 16:11:05,348 - INFO - Zero prices removed: 180
+2026-03-01 16:11:05,360 - INFO - Invalid cost entries: 0
+2026-03-01 16:11:05,360 - INFO - Rows removed where cost > price: 163
+2026-03-01 16:11:05,370 - INFO - Category names standardized
+2026-03-01 16:11:05,370 - INFO - Invalid launch_date entries: 97
+2026-03-01 16:11:05,370 - INFO - Invalid discontinued flags: 26
+2026-03-01 16:11:05,380 - INFO - Completely malformed rows removed: 0
+2026-03-01 16:11:05,382 - INFO - Final Rows: 120
+2026-03-01 16:11:05,382 - INFO - Total Rows Removed: 381
+2026-03-01 16:11:05,448 - INFO - Products Cleaning Process Completed Successfully
+2026-03-01 16:13:30,250 - INFO - Products Cleaning Process Started
+2026-03-01 16:13:30,260 - INFO - Initial Rows: 501
+2026-03-01 16:13:30,260 - INFO - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 16:13:30,262 - INFO - Rows removed due to missing product_id: 9
+2026-03-01 16:13:30,264 - INFO - Rows removed due to missing product_name: 29
+2026-03-01 16:13:30,266 - INFO - Invalid price entries after cleaning: 0
+2026-03-01 16:13:30,266 - INFO - Negative prices removed: 0
+2026-03-01 16:13:30,266 - INFO - Zero prices removed: 180
+2026-03-01 16:13:30,268 - INFO - Invalid cost entries: 0
+2026-03-01 16:13:30,268 - INFO - Rows removed where cost > price: 163
+2026-03-01 16:13:30,270 - INFO - Category names standardized
+2026-03-01 16:13:30,273 - INFO - Invalid launch_date entries: 97
+2026-03-01 16:13:30,274 - INFO - Invalid discontinued flags: 26
+2026-03-01 16:13:30,274 - INFO - Completely malformed rows removed: 0
+2026-03-01 16:13:30,274 - INFO - Final Rows: 120
+2026-03-01 16:13:30,274 - INFO - Total Rows Removed: 381
+2026-03-01 16:13:30,317 - INFO - Products Cleaning Process Completed Successfully
+2026-03-01 16:19:15,923 - INFO - === PRODUCTS CLEANING STARTED ===
+2026-03-01 16:19:59,457 - INFO - === PRODUCTS CLEANING STARTED ===
+2026-03-01 16:19:59,464 - INFO - Initial Shape: (501, 7)
+2026-03-01 16:19:59,464 - DEBUG - Columns Found: ['product_id', 'product_name', 'category', 'price', 'cost', 'launch_date', 'discontinued']
+2026-03-01 16:19:59,475 - INFO - Malformed rows removed: 1
+2026-03-01 16:19:59,485 - INFO - Missing product_id: 9
+2026-03-01 16:19:59,490 - INFO - Duplicate product_id removed: 0
+2026-03-01 16:19:59,490 - INFO - Missing product_name: 28
+2026-03-01 16:19:59,494 - WARNING - Invalid price entries: 0
+2026-03-01 16:19:59,494 - INFO - Negative prices removed: 0
+2026-03-01 16:19:59,494 - INFO - Zero prices removed: 180
+2026-03-01 16:19:59,494 - WARNING - Invalid cost entries: 0
+2026-03-01 16:19:59,500 - INFO - Rows removed where cost > price: 163
+2026-03-01 16:19:59,500 - INFO - Category standardized
+2026-03-01 16:19:59,510 - WARNING - Invalid launch_date: 97
+2026-03-01 16:19:59,510 - WARNING - Invalid discontinued flags: 26
+2026-03-01 16:19:59,510 - INFO - Final Shape: (120, 7)
+2026-03-01 16:19:59,510 - INFO - Total rows removed: 381
+2026-03-01 16:19:59,564 - INFO - === PRODUCTS CLEANING COMPLETED SUCCESSFULLY ===
